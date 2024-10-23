@@ -1,18 +1,6 @@
 /************************************************************/
-/*  HW4                                                     */
 /*  PL/0 compiler                                           */
-/*  Team Member 1: Hector Ramos, he103401@ucf.edu           */
-/*  Team Member 2: Sami Najib, sa129714@ucf.edu             */
 /************************************************************/
-
-/*          [TO-DO LIST]
- *
- *  Readme.txt & contributions.txt
- *  Need to include an input file & corresponding output file that demonstrates the program working and doesn't give an error
- *  Final code review & check that everything meets requirements of rubric
- *
- *
- */
 
 #include <ctype.h>
 #include <stdio.h>
